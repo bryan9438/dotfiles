@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bryan9438@googlemail.com
+	name = Tsz Lok Wong
